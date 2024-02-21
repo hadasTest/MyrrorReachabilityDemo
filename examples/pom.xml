@@ -51,6 +51,69 @@
         </license>
     </licenses>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+    
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>ab-test</artifactId>
+            <version>1.5.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-httpclient-ning</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-httpclient-okhttp</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-core</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-java8</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-httpclient-ahc</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-apis</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+       
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-httpclient-apache</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.leetcrunch</groupId>
+            <artifactId>scribejava-httpclient-armeria</artifactId>
+            <version>8.3.5</version>
+        </dependency>
+
+    </dependencies>
+
     <developers>
         <developer>
             <id>hierynomus</id>
